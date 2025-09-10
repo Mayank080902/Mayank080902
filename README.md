@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mayank080902
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Mayank Kumar
+- 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me mayank080902@gmail.com
 
